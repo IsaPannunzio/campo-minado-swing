@@ -1,7 +1,7 @@
 # Campo Minado Swing
 
 # Sobre
-Essa aplicação é um jogo de campo minado com uma interface gráfica simples, construída com swing.
+Essa aplicação é um jogo de campo minado com uma interface gráfica construída com swing.
 
 # Tecnologias Utilizadas
 * Java
